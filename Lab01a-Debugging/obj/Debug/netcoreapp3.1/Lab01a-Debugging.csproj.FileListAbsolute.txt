@@ -1,0 +1,13 @@
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Lab01a-Debugging\Lab01a-Debugging\bin\Debug\netcoreapp3.1\Lab01a-Debugging.exe
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Lab01a-Debugging\Lab01a-Debugging\bin\Debug\netcoreapp3.1\Lab01a-Debugging.deps.json
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Lab01a-Debugging\Lab01a-Debugging\bin\Debug\netcoreapp3.1\Lab01a-Debugging.runtimeconfig.json
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Lab01a-Debugging\Lab01a-Debugging\bin\Debug\netcoreapp3.1\Lab01a-Debugging.runtimeconfig.dev.json
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Lab01a-Debugging\Lab01a-Debugging\bin\Debug\netcoreapp3.1\Lab01a-Debugging.dll
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Lab01a-Debugging\Lab01a-Debugging\bin\Debug\netcoreapp3.1\Lab01a-Debugging.pdb
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Lab01a-Debugging\Lab01a-Debugging\obj\Debug\netcoreapp3.1\Lab01a-Debugging.csprojAssemblyReference.cache
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Lab01a-Debugging\Lab01a-Debugging\obj\Debug\netcoreapp3.1\Lab01a-Debugging.AssemblyInfoInputs.cache
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Lab01a-Debugging\Lab01a-Debugging\obj\Debug\netcoreapp3.1\Lab01a-Debugging.AssemblyInfo.cs
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Lab01a-Debugging\Lab01a-Debugging\obj\Debug\netcoreapp3.1\Lab01a-Debugging.csproj.CoreCompileInputs.cache
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Lab01a-Debugging\Lab01a-Debugging\obj\Debug\netcoreapp3.1\Lab01a-Debugging.dll
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Lab01a-Debugging\Lab01a-Debugging\obj\Debug\netcoreapp3.1\Lab01a-Debugging.pdb
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Lab01a-Debugging\Lab01a-Debugging\obj\Debug\netcoreapp3.1\Lab01a-Debugging.genruntimeconfig.cache
